@@ -6,7 +6,7 @@ This is my personal portfolio website, built using HTML, CSS, and JavaScript. It
 
 You can view the live demo of the portfolio here:  
 [**View My Portfolio**](http://localhost:8080/)  
-*Replace the link above with your own GitHub Pages link or any hosting service you are using.*
+
 
 ## Technologies Used
 
@@ -20,10 +20,4 @@ You can view the live demo of the portfolio here:
 - **Interactive Components**: Includes hover effects, modals, and navigation.
 - **Project Showcases**: Displays my work and skills.
 
-## How to Run Locally
 
-To view the portfolio locally on your machine:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
